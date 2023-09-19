@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Franchiser</string>
+    <string name="franchiser">Franchiser</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="forgot_password" translatable="false">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="already_account_login_here">Already Account? Login Here</string>
+    <string name="register2">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="food_industry">Food Industry</string>
+    <string name="sneaker_industry">Sneaker Industry</string>
+    <string name="dairy_industry">Dairy Industry</string>
+    <string name="hotel_industry">Hotel Industry</string>
+    <string name="todo">TODO</string>
+    <string name="sneaker">Sneaker</string>
+    <string name="food">Food</string>
+    <string name="dairy">Dairy</string>
+    <string name="hotel">Hotel</string>
+    <string name="searching_for">Searching For...</string>
+    <string name="franchizer">Franchizer</string>
+    <string name="company_4">Company 4</string>
+    <string name="company_3">Company 3</string>
+    <string name="company_2">Company 2</string>
+    <string name="company_1">Company 1</string>
+    <string name="france">France</string>
+    <string name="title_activity_homepage">HomepageActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="popular">Popular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="demo_fragment">Demo Fragment</string>
+    <string name="logout">Logout</string>
+    <string name="monginis">Monginis</string>
+    <string name="the_chocolate_room">The Chocolate Room</string>
+    <string name="oven_magick">Oven Magick</string>
+    <string name="chicago_pizza">Chicago Pizza</string>
+    <string name="apparel_industry">Apparel Industry</string>
+    <string name="jewellery_industry">Jewellery Industry</string>
+    <string name="title_activity_demo_company">DemoCompany</string>
+    <string name="demo_company_page">Demo Company Page</string>
+    <string name="company_name">Company Name</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="blafar">Blafar</string>
+    <string name="kalyan">Kalyan</string>
+    <string name="signup">SignUp</string>
+    <string name="user">User :</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="long_paragraph">
+        This is a long paragraph of text. It can contain multiple sentences or lines.
+        You can format it as needed, including line breaks and special characters.
+        Android Studio will automatically escape special characters.
+    </string>
+    <string name="description">
+        Franchise available for the above Company.
+        Strongly feasible and Sound good company with a good amount of outlets.
+        Give a chance to yourself to be in that one.
+        Company Establised in 1999
+        Total No. of Outlets 123
+        Capital Investment Required of Rs. 10 Lacs to 50 Lacs.
+        Return On Investment to depend on the Profitablity in the Financial Years.
+        Contact the Company from the below button given...
+    </string>
+    <string name="Monginis">
+    </string>
+    <string name="contact_now">Contact Now</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734886265670",
+    "project_id": "franchizer-login-b0495",
+    "storage_bucket": "franchizer-login-b0495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734886265670:android:ada0944c400df3af11db47",
+        "android_client_info": {
+          "package_name": "com.example.franchiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734886265670-cv3eot3vvpnnqc2l2hmg2k29bgdui7v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiAXn4JZsol5gjkY0ox1yUY_FC8DLnKJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734886265670-cv3eot3vvpnnqc2l2hmg2k29bgdui7v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
